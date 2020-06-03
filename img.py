@@ -11,6 +11,9 @@ infrared = cv2.imread("Fotos_color_SinFiltro/infrared.jpg")
 gray_color = cv2.cvtColor(color, cv2.COLOR_BGR2GRAY)
 gray_infrared = cv2.cvtColor(infrared, cv2.COLOR_BGR2GRAY)
 
+cv2.imwrite("Fotos_gris_ConFiltro/color2gris.jpg", gray_color)
+cv2.imwrite("Fotos_gris_SinFiltro/infrared2gris.jpg", gray_infrared)
+
 result = gray_infrared ^ gray_color
 result = result * 1.3715555 + 25.4
 #result = (result / 5.67e-8) ** 1/4
