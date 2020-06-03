@@ -7,10 +7,34 @@ Ic=imread('andres3.jpg');subplot(1,3,2);imshow(Ic);title('Imagen con filtro IR(I
 Iig = rgb2gray(Ii); Icg = rgb2gray(Ic);
 II = imsubtract(Ii,Ic);
 I = imsubtract(Iig,Icg); figure;imshow(I);title('Imagen resta Ii-Ic GRAY');
+improfile
+ [x,y] = size(I);
+ X=1:x;
+ Y=1:y;
+ [xx,yy]=meshgrid(Y,X);
+ i = im2double(I);
+ figure; mesh(xx,yy,i);title('mesh'); 
+ colorbar
+%figure; imshow(i);title('Imagen resta Ii-Ic DOUBLE');
+%figure;imhist(I);title('imhist(Irg)')
+ 
 whos I
 % Computar el rango de la matriz para ver el rango de temperatura de la imágen
 rango = [median(I(:)) max(I(:))];
 
+ %% Filtros de colores
+ % NO ES NECESARIO CORRER ESTA PARTE DEL CODIGO
+  % utilizo la función colorfilter creada para filtrar el color rojo, azul y
+  % verde de cada imágen
+  %subplot(3,1,1)
+  figure;
+ Ir = colorfilter(II,'r'); title('Icolor filtro rojo')% filtro de la imagen a color
+ %subplot(3,1,2)
+%  figure;
+% Ig = colorfilter(II,'g');title('Icolor filtro verde')
+  %subplot(3,1,3)
+%  figure;
+% Ib = colorfilter(II,'b');title('Icolor filtro azul')
 %%  Remover el ruido preservando los detalles importantes de la imagen
 ValorSuave = 0.01*diff(rango).^2;
 %Como X=RANGO es un vector de longitud m=2, Y=diff(X) devuelve un vector de
