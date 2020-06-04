@@ -64,7 +64,7 @@ figure; imshow(J,[]);colormap(gca,hot);
 
 % % title('Imagen Filtrada Guiada')
 %% Determinar los valores limites para usar en la segmentación
-umbral = multithresh(J,1)
+umbral = multithresh((0.78*J,1)
 
 % el metodo Otsu es para segmentar
 % Devuelve un vector de 1 por N que contiene los valores de umbral 
