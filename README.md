@@ -6,5 +6,12 @@ con el objetivo de disminuir el contacto de las personas al momento de tener que
 ## Descripción
 Este proyecto se desarrolló en MatLab 2019b básico y adicionalmente se utilizó la libreria *Image Processing Toolbox*. Para el desarrollo del proyecto no es necesario clonar todo el repositorio. Los códigos necesarios se encuentran en la carpeta de ***Segmentacion_termica_para_objetos*** y ***Segmentacion_termica_para_personas***.
 ## Ejecución ⚙️
-Los códigos son bastante amigables para quien quiera utilizarlos, lo único que tiene que hacer es compilarlos y escribir el nombre de las imágenes con y sin filtro junto con su extensión.
+Los códigos son bastante amigables para quien quiera utilizarlos, lo único que tiene que hacer es compilarlos y escribir el nombre de las imágenes con y sin filtro junto con su extensión. Compile el código y asegurese que las imágenes que quiere analizar esten en la misma carpeta. Le aparecerá lo siguiente en la ventana de comando:
 ![alt text](https://github.com/ljcaviedesb/Imagenes-Termicas/blob/master/1.JPG)
+En nuestro caso vamos a utilizar una imagen que nombramos *color.jpg*, simplemente lo escribe, enter y pone la imágen que no tiene el filtro IR
+![alt text](https://github.com/ljcaviedesb/Imagenes-Termicas/blob/master/2.JPG)
+A continuación le aparecerá una imagen con tres sub imágenes, en la tercera va a seleccionar el área que quiere analizar
+![alt text](https://github.com/ljcaviedesb/Imagenes-Termicas/blob/master/3.JPG)
+Una vez recortado, en la misma imágen aparecerá la cuarta subimágen en donde se traza una linea o cuantas quiera para ver la intensidad de cada uno de los pixeles a lo largo de la linea trazada.
+![alt text](https://github.com/ljcaviedesb/Imagenes-Termicas/blob/master/4.JPG)
+El perfil de intensidades
