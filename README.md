@@ -7,4 +7,4 @@ con el objetivo de disminuir el contacto de las personas al momento de tener que
 Este proyecto se desarrolló en MatLab 2019b básico y adicionalmente se utilizó la libreria *Image Processing Toolbox*. Para el desarrollo del proyecto no es necesario clonar todo el repositorio. Los códigos necesarios se encuentran en la carpeta de ***Segmentacion_termica_para_objetos*** y ***Segmentacion_termica_para_personas***.
 ## Ejecución ⚙️
 Los códigos son bastante amigables para quien quiera utilizarlos, lo único que tiene que hacer es compilarlos y escribir el nombre de las imágenes con y sin filtro junto con su extensión.
-![alt text](http://https://github.com/ljcaviedesb/Imagenes-Termicas/blob/master/1.JPG)
+![alt text](https://github.com/ljcaviedesb/Imagenes-Termicas/blob/master/1.JPG)
