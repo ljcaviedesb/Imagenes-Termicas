@@ -17,4 +17,4 @@ Una vez recortado, en la misma imágen aparecerá la cuarta subimágen en donde 
 El perfil de intensidades
 ![alt text](https://github.com/ljcaviedesb/Imagenes-Termicas/blob/master/Segmentacion%20Termica%20objetos/Cautín/Profile_fig2.jpg)
 y La imagen segmentada junto con la temperatura 
-![alt text]()
+![alt text](https://github.com/ljcaviedesb/Imagenes-Termicas/blob/master/Segmentacion%20Termica%20objetos/Cautín/Imagen_Segmentada_fig3.jpg)
