@@ -15,3 +15,6 @@ A continuación le aparecerá una imagen con tres sub imágenes, en la tercera v
 Una vez recortado, en la misma imágen aparecerá la cuarta subimágen en donde se traza una linea o cuantas quiera para ver la intensidad de cada uno de los pixeles a lo largo de la linea trazada.
 ![alt text](https://github.com/ljcaviedesb/Imagenes-Termicas/blob/master/4.png)
 El perfil de intensidades
+![alt text](https://github.com/ljcaviedesb/Imagenes-Termicas/blob/master/Segmentacion%20Termica%20objetos/Cautín/Profile_fig2.jpg)
+y La imagen segmentada junto con la temperatura 
+![alt text]()
