@@ -13,5 +13,5 @@ En nuestro caso vamos a utilizar una imagen que nombramos *color.jpg*, simplemen
 A continuación le aparecerá una imagen con tres sub imágenes, en la tercera va a seleccionar el área que quiere analizar
 ![alt text](https://github.com/ljcaviedesb/Imagenes-Termicas/blob/master/3.png)
 Una vez recortado, en la misma imágen aparecerá la cuarta subimágen en donde se traza una linea o cuantas quiera para ver la intensidad de cada uno de los pixeles a lo largo de la linea trazada.
-![alt text](https://github.com/ljcaviedesb/Imagenes-Termicas/blob/master/4.JPG)
+![alt text](https://github.com/ljcaviedesb/Imagenes-Termicas/blob/master/4.png)
 El perfil de intensidades
