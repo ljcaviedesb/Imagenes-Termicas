@@ -11,7 +11,7 @@ Los códigos son bastante amigables para quien quiera utilizarlos, lo único que
 En nuestro caso vamos a utilizar una imagen que nombramos *color.jpg*, simplemente lo escribe, enter y pone la imágen que no tiene el filtro IR
 ![alt text](https://github.com/ljcaviedesb/Imagenes-Termicas/blob/master/2.JPG)
 A continuación le aparecerá una imagen con tres sub imágenes, en la tercera va a seleccionar el área que quiere analizar
-![alt text](https://github.com/ljcaviedesb/Imagenes-Termicas/blob/master/3.JPG)
+![alt text](https://github.com/ljcaviedesb/Imagenes-Termicas/blob/master/3.png)
 Una vez recortado, en la misma imágen aparecerá la cuarta subimágen en donde se traza una linea o cuantas quiera para ver la intensidad de cada uno de los pixeles a lo largo de la linea trazada.
 ![alt text](https://github.com/ljcaviedesb/Imagenes-Termicas/blob/master/4.JPG)
 El perfil de intensidades
