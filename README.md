@@ -18,3 +18,5 @@ El perfil de intensidades
 ![alt text](https://github.com/ljcaviedesb/Imagenes-Termicas/blob/master/Segmentacion%20Termica%20objetos/Cautín/Profile_fig2.jpg)
 y La imagen segmentada junto con la temperatura 
 ![alt text](https://github.com/ljcaviedesb/Imagenes-Termicas/blob/master/Segmentacion%20Termica%20objetos/Cautín/Imagen_Segmentada_fig3.jpg)
+## Conclusiones
+La temperatura del cautín es de 250° C o 523K, utilizando la ley de desplazamiento de Wien sabemos que la longitud de onda emitida por el cautín es de 5.542 μm, emitiendo en el infrarrojo medio. Estas cámaras, solo alcanzan a leer una fracción del infrarrojo cercano.
