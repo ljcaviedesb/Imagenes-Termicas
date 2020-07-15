@@ -81,4 +81,6 @@ Cabe destacar qué, al igual que el desarrollo experimental, este código fue ev
 
 
 ## Conclusiones
-La temperatura del cautín es de 250° C o 523K, utilizando la ley de desplazamiento de Wien (la teoría está en la carpeta Base Teorica) sabemos que la longitud de onda emitida por el cautín es de 5.542 μm, emitiendo en el infrarrojo medio. Estas cámaras, solo alcanzan a leer una fracción del infrarrojo cercano.
+La temperatura del cautín es de 250° C o 523K, utilizando la ley de desplazamiento de Wien (la teoría está en la carpeta Base Teorica) sabemos que la longitud de onda emitida por el cautín es de 5.542 μm, emitiendo en el infrarrojo medio. Estas cámaras, solo alcanzan a leer una fracción del infrarrojo cercano. En el casod el cuerpo humano, se encontró que, la longitud de onda a la que emite es de 9.77 μm, el cual está en la región lejana del infarrojo, así que, bajo estas condiciones, es imposible medir la temperatura con una cámara web.
+
+Se invita al lector a revisar los commits, ya que estos permiten ver como se en avanzó en el proyecto, a lo largo del tiempo.
